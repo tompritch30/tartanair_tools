@@ -1,3 +1,9 @@
+
+tartanair/seasonsforest/Easy/depth_left.zip
+tartanair/seasonsforest/Easy/depth_right.zip
+tartanair/seasonsforest/Easy/flow_flow.zip
+tartanair/seasonsforest/Easy/flow_mask.zip
+tartanair/seasonsforest/Easy/image_left.zip
 tartanair/seasonsforest/Easy/seg_left.zip
 tartanair/seasonsforest/Easy/seg_right.zip
 tartanair/seasonsforest/Hard/depth_left.zip

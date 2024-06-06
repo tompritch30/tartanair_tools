@@ -1,0 +1,31 @@
+Break signaled
+
+
+Break signaled
+
+
+Break signaled
+
+
+Break signaled
+
+
+Break signaled
+
+
+Break signaled
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/homes/tp4618/Documents/bitbucket/miniconda3/envs/GlueFactory/lib/python3.10/multiprocessing/pool.py", line 768, in
+get
+    self.wait(timeout)
+  File "/homes/tp4618/Documents/bitbucket/miniconda3/envs/GlueFactory/lib/python3.10/multiprocessing/pool.py", line 765, in
+wait
+    self._event.wait(timeout)
+  File "/homes/tp4618/Documents/bitbucket/miniconda3/envs/GlueFactory/lib/python3.10/threading.py", line 607, in wait
+    signaled = self._cond.wait(timeout)
+  File "/homes/tp4618/Documents/bitbucket/miniconda3/envs/GlueFactory/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+(GlueFactory) tp4618@gpu01:syntheticForestData$ pip install patool
+
